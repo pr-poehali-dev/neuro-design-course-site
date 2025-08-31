@@ -75,7 +75,7 @@ export default function Index() {
             <div className="relative">
               <div className="relative z-10 bg-white rounded-3xl shadow-2xl p-8">
                 <img 
-                  src="/img/66b1c316-f779-48c6-bbfb-f99d63d6b268.jpg" 
+                  src="https://cdn.poehali.dev/files/98efc886-f8e0-4906-9c7e-91909c8e6978.jpg" 
                   alt="AI Interior Design Course"
                   className="w-full h-auto rounded-2xl"
                 />
